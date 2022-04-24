@@ -7,4 +7,11 @@ body{
     border:1px solid rgb(18, 24, 22);
     border-radius: 3;
     box-sizing: 23;
+    width: 70%;
+
+}
+#head{
+    background-color: blueviolet;
+    text-decoration-color: black;
+    color: aliceblue;
 }
