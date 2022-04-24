@@ -1,5 +1,10 @@
 body{
     text-align: center;
-    color: blue;
+    color: rgb(29, 156, 95);
     font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    border:1px solid rgb(18, 24, 22);
+    border-radius: 3;
+    box-sizing: 23;
 }
